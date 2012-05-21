@@ -4,6 +4,10 @@ public class clase1{
 		System.out.println("Soy el método 1 de la clase 1");
 	}
 
+	public static void metodo_rama1_clase1(){
+		System.out.println("Soy el método de la rama 1");
+	}
+
 	public static void main(String[] args){
 		System.out.println("Soy la clase 1");
 	}
